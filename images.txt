@@ -1,1 +1,1 @@
-canal/canal-server:v1.1.6
+kibana:7.14.0
